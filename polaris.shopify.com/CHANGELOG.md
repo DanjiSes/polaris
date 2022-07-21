@@ -1,5 +1,25 @@
 # polaris.shopify.com
 
+## 0.8.0
+
+### Minor Changes
+
+- [#6692](https://github.com/Shopify/polaris/pull/6692) [`a88b93d15`](https://github.com/Shopify/polaris/commit/a88b93d15c5ea48442225565ea2a2ff1eb5d6678) Thanks [@yurm04](https://github.com/yurm04)! - Updated Contributing page nav links and Documentation page content
+
+* [#6676](https://github.com/Shopify/polaris/pull/6676) [`365ef2cca`](https://github.com/Shopify/polaris/commit/365ef2ccae4451958be02587d5f07b40a8cacfc1) Thanks [@yurm04](https://github.com/yurm04)! - Updated 404ing tokens link in the VS Code readme
+
+### Patch Changes
+
+- [#6696](https://github.com/Shopify/polaris/pull/6696) [`146631b39`](https://github.com/Shopify/polaris/commit/146631b39dfb27f994a8056c5466f33d49cab3a9) Thanks [@ashancock](https://github.com/ashancock)! - Fix missing period typo in Warning banners description
+
+* [#6681](https://github.com/Shopify/polaris/pull/6681) [`3b6d6949f`](https://github.com/Shopify/polaris/commit/3b6d6949fdbb1d809f6aff5d3f36b897c0fd2353) Thanks [@alex-page](https://github.com/alex-page)! - Removed comments and cleaned up markdown files
+
+- [#6674](https://github.com/Shopify/polaris/pull/6674) [`6657ba4c5`](https://github.com/Shopify/polaris/commit/6657ba4c54ff4fba8d4350602afc68ed316a16d0) Thanks [@adrianefong](https://github.com/adrianefong)! - Fixed home page "Polaris for Vs Code" section background on smaller breakpoints
+
+- Updated dependencies [[`e58092acb`](https://github.com/Shopify/polaris/commit/e58092acb10ddc8330dcd8fc4bd7293ba94692ad), [`3b6d6949f`](https://github.com/Shopify/polaris/commit/3b6d6949fdbb1d809f6aff5d3f36b897c0fd2353), [`11816f2c5`](https://github.com/Shopify/polaris/commit/11816f2c526c98ef0f1839ce233baeaf9173c4fb)]:
+  - @shopify/polaris@9.20.2
+  - @shopify/polaris-icons@5.2.0
+
 ## 0.7.0
 
 ### Minor Changes
